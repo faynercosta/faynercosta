@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @faynercosta
-- 👀 I’m interested in Machine Learning Algorithms, Data Science & Backend development.
-- 🌱 I’m currently learning advanced ML techniques for preditive algorithms and Blockchain development
+- 👀 I’m interested in Machine Learning Algorithms, Data Science, Deep Learning & Backend development.
+- 🌱 I’m currently at MIT learning advanced ML techniques for preditive algorithms and Blockchain development
 - 💞️ I’m looking to collaborate on Blockchain & Lightening projects.
 - 📫 How to reach me @Fayner Costa at linkedin
 
